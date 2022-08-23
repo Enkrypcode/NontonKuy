@@ -35,7 +35,6 @@ export default {
       .then(data => {
           this.items = data.items
           console.log(data.items)
-          // console.log(data)
       });
     }
   }
@@ -43,18 +42,10 @@ export default {
 </script>
 
 <style lang="less">
-  // img {
-  //   width: 40%;
-  //   display: block;
-  //   margin: 0 auto;
-  // }
-
   .movie{
     display: block;
     margin: 0 auto;
     align-items: center;
     text-align: center;
   }
-
-
 </style>
