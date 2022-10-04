@@ -18,7 +18,7 @@
     margin: 0;
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
-    background-color: #3C425C;
+    background-color: #f7f7f7;
   }
 
 .nontonkuy-text {
